@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Germain PERDIGAL | Développeur web et mobile freelance à Lyon</title>
     <link rel="stylesheet" href="assets/styles/master.css">
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css">
 </head>
 
 <body>
@@ -21,8 +22,8 @@
             </div>
         </header>
         <div class="hero">
-            <div class="introduction">Hello. I'm <span>Germain PERDIGAL</span>
-                <br />Freelance fullstack web and mobile developer
+            <div class="introduction">Hi ! I'm <span>Germain</span>
+                <br />Freelance web and mobile fullstack developer
                 <br />IT Student at Epsi Lyon
                 <br/>Actively looking for a <span>work-study contract</span> !<br/>
                 <div class="arrow bounce" onclick="scrollDown()">
@@ -31,18 +32,17 @@
             </div>
             <div class="avatar" id="scene">
                 <img id="avatar" data-depth="0.8" src="assets/medias/images/avatar.jpg" alt="">
-                <div class="shadow" data-depth="0.2"></div>
+                <div class="img-shadow" data-depth="0.1"></div>
             </div>
         </div>
     </section>
 
     <section class="about">
         <span class="heading">SKILLS</span>
-        <div class="flex">
+        <div class="flex" id="skills">
             <div class="skill">
                 <i class="fas fa-laptop-code"></i>
                 <h2>Front-end</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
                 <ul>
                     <li>HTML</li>
                     <li>CSS, Sass, Less</li>
@@ -53,10 +53,10 @@
             <div class="skill">
                 <i class="fas fa-cogs"></i>
                 <h2>Back-end</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
                 <ul>
                     <li>PHP & Frameworks (Symfony)</li>
                     <li>Angular, Ionic, Vue</li>
+                    <li>MySQL, MongoDB</li>
                     <li>Node JS, Express</li>
                     <li></li>
                 </ul>
@@ -64,7 +64,6 @@
             <div class="skill">
                 <i class="fas fa-search-plus"></i>
                 <h2>& more</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
                 <ul>
                     <li>Videomaking</li>
                     <li>Photography</li>
@@ -112,7 +111,28 @@
     <section class="about">
         <span class="heading">GET IN TOUCH</span>
         <div class="flex">
-
+            <form action="" class="w-2/3 mx-auto" style="flex-direction: column;">
+                <div class="mb-4">
+                    <label class="block text-gray-700 text-left text-sm font-bold mb-2" for="username">
+                      Your name...
+                    </label>
+                    <input type="text" class="shadow appearance-none border rounded text-gray-700 w-full py-2 px-3  leading-tight focus:outline-none focus:shadow-outline" name="fname" placeholder="Your name...">
+                </div>
+                <div class="mb-4">
+                    <label class="block text-gray-700 text-left text-sm font-bold mb-2" for="username">
+                      Your email address...
+                    </label>
+                    <input type="email" class="shadow appearance-none border rounded text-gray-700 w-full py-2 px-3  leading-tight focus:outline-none focus:shadow-outline" name="email" placeholder="Email address...">
+                </div>
+                <div class="mb-4">
+                    <label class="block text-gray-700 text-left text-sm font-bold mb-2" for="username">
+                        Your message...
+                      </label>
+                    <textarea name="message" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" rows="3"></textarea>
+                </div>
+                <span class="emailme"><i class="far fa-envelope mr-2"></i> contact@germainperdigal.pro</span>
+                <input class="bg-black float-right hover:bg-white hover:border-black border hover:text-black text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit" value="Send">
+            </form>
         </div>
     </section>
 

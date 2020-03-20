@@ -7,6 +7,8 @@ window.onresize = setHero;
 function setHero() {
     var height = $(window).height() - 20;
     let heroHeight = height - $('header').height();
+    $('.img-shadow').height($('#avatar').height());
+    $('.img-shadow').width($('#avatar').width());
     $('.hero').height(heroHeight);
     $('.shadow').height($('.avatar').height());
     let workHeight = $('.heading').height();
