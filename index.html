@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Germain PERDIGAL | Développeur web et mobile freelance à Lyon</title>
+    <link rel="stylesheet" href="assets/styles/master.css">
+</head>
+
+<body>
+    <section>
+        <header>
+            <div class="branding">
+                GERMAIN PERDIGAL
+            </div>
+            <div class="social">
+                <a href="https://www.linkedin.com/in/germainperdigal/"><i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com/germainperdigal"><i class="fab fa-github-square"></i></a>
+                <a href=""><i class="fab fa-twitter"></i></a>
+            </div>
+        </header>
+        <div class="hero">
+            <div class="introduction">Hello. I'm <span>Germain PERDIGAL</span>
+                <br />Freelance fullstack web and mobile developer
+                <br />IT Student at Epsi Lyon
+                <br/>Actively looking for a <span>work-study contract</span> !<br/>
+                <div class="arrow bounce" onclick="scrollDown()">
+                    <i class="fa fa-arrow-down"></i>
+                </div>
+            </div>
+            <div class="avatar" id="scene">
+                <img id="avatar" data-depth="0.8" src="assets/medias/images/avatar.jpg" alt="">
+                <div class="shadow" data-depth="0.2"></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about">
+        <span class="heading">SKILLS</span>
+        <div class="flex">
+            <div class="skill">
+                <i class="fas fa-laptop-code"></i>
+                <h2>Front-end</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS, Sass, Less</li>
+                    <li>Javascript</li>
+                    <li>Tailwind CSS, Bootstrap</li>
+                </ul>
+            </div>
+            <div class="skill">
+                <i class="fas fa-cogs"></i>
+                <h2>Back-end</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
+                <ul>
+                    <li>PHP & Frameworks (Symfony)</li>
+                    <li>Angular, Ionic, Vue</li>
+                    <li>Node JS, Express</li>
+                    <li></li>
+                </ul>
+            </div>
+            <div class="skill">
+                <i class="fas fa-search-plus"></i>
+                <h2>& more</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod. Deserunt saepe fugit magni quod.</p>
+                <ul>
+                    <li>Videomaking</li>
+                    <li>Photography</li>
+                    <li>Digital creation (After Effect, Illustrator)</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="about">
+        <span class="heading">MY WORK</span>
+        <div class="flex mid">
+            <div class="work" style="background-image: url('assets/medias/images/projects/monrdvbeaute.png');">
+                <div>
+                    <h3>Mon RDV Beauté</h3>
+                    Development of a beauty reservation platform using Angular, NodeJS, Stripe Connect...
+                </div>
+            </div>
+            <div class="work" style="background-image: url('assets/medias/images/projects/annuairepro.png');">
+                <div>
+                    <h3>Annuaire Pro</h3>
+                    Development of a profesional online directory using PHP, Stripe.
+                </div>
+            </div>
+            <div class="work" style="background-image: url('assets/medias/images/projects/lecastelrose.png');">
+                <div>
+                    <h3>Le Castel Rose</h3>
+                    Creation of a visual identity and a branding website under WordPress (using Salient theme).
+                </div>
+            </div>
+        </div>
+        <div class="flex mid">
+            <div class="work">
+                <div>Mon RDV Beauté<br/> Site de .......</div>
+            </div>
+            <div class="work">
+                <div>Mon RDV Beauté</div>
+            </div>
+            <div class="work">
+                <div>Mon RDV Beauté</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about">
+        <span class="heading">GET IN TOUCH</span>
+        <div class="flex">
+
+        </div>
+    </section>
+
+    <footer>
+
+    </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/b004234d76.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.19/jquery.scrollify.min.js"></script>
+    <script src="assets/js/master.js"></script>
+    <script>
+        $(function() {
+            $.scrollify({
+                section: "section",
+            });
+        });
+    </script>
+    <script>
+        var scene = document.getElementById('scene');
+        var parallaxInstance = new Parallax(scene);
+    </script>
+</body>
+
+</html>
