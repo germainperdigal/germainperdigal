@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54)
+![C/C++/C#](https://img.shields.io/badge/c,%20c++,%20cs-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54)
 
 ### Frameworks & Libraries
 
