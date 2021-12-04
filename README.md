@@ -3,7 +3,9 @@
 </p>
 
   I'm an IT Student from Lyon, France 🇫🇷
+  
   Studying at <b>EPSI Lyon</b> and a working student at <b>Groupe LDLC</b>. 👨🏻‍🎓
+  
   Web and mobile specialized developer. 🧑🏻‍💻
 
 ### Languages
