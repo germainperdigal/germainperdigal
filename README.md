@@ -50,6 +50,6 @@
 
 #### Social
 
-[![Websitee](https://img.shields.io/website?down_color=red&down_message=down&label=Portfolio&up_color=green&up_message=Check%20it%20out!&url=https%3A%2F%2Fgermainperdigal.me)](https://germainperdigal.me)  
+[![Websitee](https://img.shields.io/website?down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=Check%20it%20out!&url=https%3A%2F%2Fgermainperdigal.me)](https://germainperdigal.me)  
 
 [![Linkedin](https://img.shields.io/badge/-Germain%20Perdigal-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/germainperdigal/)  
