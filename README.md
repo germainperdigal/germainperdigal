@@ -29,6 +29,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-015980.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-12A150.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-015980.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Design
 
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-460137.svg?style=for-the-badge&logo=adobexd&logoColor=white)
@@ -40,6 +45,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Social 👥
+#### Social
+
+[![Websitee](https://img.shields.io/website?down_color=red&down_message=down&label=Portfolio&up_color=green&up_message=Check%20it%20out!&url=https%3A%2F%2Fgermainperdigal.me)](https://germainperdigal.me)  
 
 [![Linkedin](https://img.shields.io/badge/-Germain%20Perdigal-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/germainperdigal/)  
