@@ -18,11 +18,11 @@
 
 ### Frameworks & Libraries
 
-![Angular](https://img.shields.io/badge/angular-%dd1b16.svg?style=for-the-badge&logo=angular&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/angular-dd1b16.svg?style=for-the-badge&logo=angular&logoColor=ffffff)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Symfony](https://img.shields.io/badge/symfony-43853D?style=for-the-badge&logo=symfony&logoColor=000000)
-![Ionic](https://img.shields.io/badge/ionic-%2320232a.svg?style=for-the-badge&logo=ionic&logoColor=%2889F6)
+![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
+![Ionic](https://img.shields.io/badge/ionic-2889F6.svg?style=for-the-badge&logo=ionic&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
