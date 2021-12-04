@@ -10,11 +10,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54)
 
 ### Frameworks & Libraries
 
@@ -22,6 +22,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.JS](https://img.shields.io/badge/NODE.JS-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
+
 ![Ionic](https://img.shields.io/badge/ionic-2889F6.svg?style=for-the-badge&logo=ionic&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -30,6 +31,7 @@
 
 ### Design
 
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-460137.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Version Control
