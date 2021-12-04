@@ -2,8 +2,9 @@
 <h1>Hello, welcome on my GitHub profile ! 👋🏼</h2> 
 </p>
 
-  I'm an IT Student.  
-  Studying at <b>EPSI Lyon</b> 🇫🇷 and a working student at Groupe LDLC.  
+  I'm an IT Student from Lyon, France 🇫🇷
+  Studying at <b>EPSI Lyon</b> and a working student at <b>Groupe LDLC</b>. 👨🏻‍🎓
+  Web and mobile specialized developer. 🧑🏻‍💻
 
 ### Languages
 
