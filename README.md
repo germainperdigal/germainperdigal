@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Hello, welcome on my GitHub profile ! 👋🏼</h2> 
+<h1>Hello, welcome on my profile ! 👋🏼</h2> 
 </p>
 
   I'm an IT Student from Lyon, France 🇫🇷
@@ -13,7 +13,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0074C2?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
