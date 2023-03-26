@@ -39,19 +39,27 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-12A150.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-015980.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Design
-
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-460137.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ### Version Control
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#### Social
+### Tools
 
-[![Websitee](https://img.shields.io/website?down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=Check%20it%20out!&url=https%3A%2F%2Fgermainperdigal.me)](https://germainperdigal.me)  
+![Jenkins](https://img.shields.io/badge/jenkins-CC3631.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-108FC5.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-E55527.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Others
+![HomeAssistant](https://img.shields.io/badge/HomeAssistant-00BDF4.svg?style=for-the-badge&logo=HomeAssistant&logoColor=white)
+
+### Design
+
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-460137.svg?style=for-the-badge&logo=adobexd&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+#### Social
 
 [![Linkedin](https://img.shields.io/badge/-Germain%20Perdigal-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/germainperdigal/)  
