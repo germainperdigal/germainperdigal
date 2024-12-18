@@ -1,10 +1,6 @@
 <p align="center">
 <h1>Hello, welcome on my profile ! 👋🏼</h2> 
 </p>
-
-  I'm an IT Student from Lyon, France 🇫🇷
-  
-  Studying at <b>EPSI Lyon</b> (preparing a Master's degree) and a working student at <b>[Groupe LDLC](https://www.groupe-ldlc.com/)</b>. 👨🏻‍🎓
   
   Web and mobile specialized developer. 🧑🏻‍💻
 
